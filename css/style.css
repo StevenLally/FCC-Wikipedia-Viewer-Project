@@ -1,0 +1,25 @@
+body {
+  margin-top: 20px;
+}
+
+button {
+  width: 200px;
+  text-align: center;
+}
+
+.button-wrap {
+  text-align: center;
+}
+
+.buttons {
+  display: inline-block;
+}
+
+h1, #search {
+  text-align: center;
+}
+
+.form-group, .card {
+  margin-left: 20%;
+  margin-right: 20%;
+}
